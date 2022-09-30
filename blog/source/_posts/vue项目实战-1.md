@@ -2,7 +2,11 @@
 layout: photo
 title: vue项目实战
 date: 2022-09-30 23:09:47
+categories: 
+- web前端
 tags:
+- vue
+- 前端
 ---
 # vue项目的技术栈展示 以及项目的核心重点部分
 
